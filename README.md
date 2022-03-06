@@ -2,7 +2,6 @@
 
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
 > How to create your own NFT token
 
@@ -209,22 +208,9 @@ npx hardhat run --network localhost scripts/upgrade_box.js
 
 ## Author
 
-👤 **Dung Huynh**
+👤 **Yoshiro Morino**
 
 - Website: https://productsway.com/
-- Twitter: [@jellydn](https://twitter.com/jellydn)
-- Github: [@jellydn](https://github.com/jellydn)
+- LinkedIn: [@yoshiro-morino-25265b222](https://www.linkedin.com/in/yoshiro-morino-25265b222)
+- Github: [@kingwebdev0105](https://github.com/kingwebdev0105)
 
-## Stargazers 🌟
-
-[![Stargazers repo roster for jellydn/nft-app](https://reporoster.com/stars/jellydn/nft-app)](https://github.com/jellydn/nft-app/stargazers)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q61Q7YM)
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
